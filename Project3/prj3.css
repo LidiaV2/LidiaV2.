@@ -57,6 +57,7 @@
   .book {
   width: 500px;
   justify-content:space-between;
+  float: center;
   }
   #b1 {
     order:1;
