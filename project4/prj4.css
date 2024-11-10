@@ -1,3 +1,48 @@
 body {
-background-color: rgb(149, 125, 170);
-}
+    background: rgb(149, 125, 170);
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  
+  div > .container1{
+      border:solid ;
+      border-color: rgb(73, 53, 90);
+  }
+  div > .box1{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  div > .box2{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  div > .box3{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  
+  div > .container2{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  div > .box4{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  div > .box5{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  div > .box6{
+    border:solid ;
+    border-color: rgb(73, 53, 90);
+  }
+  
+  .box3 > Ex{
+    display: flex;
+    justify-content: space-between;
+  }
